@@ -19,4 +19,4 @@ When I'm not writing code or analyzing datasets, you can usually find me creatin
 ### 📈 GitHub Stats
 ![Paarth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itzphantomgg&show_icons=true&theme=radium)
 
-📫 **Connect with me:** [Insert your LinkedIn Profile URL here]
+📫 **Connect with me:** [[Insert your LinkedIn Profile URL here](https://www.linkedin.com/in/parth-topale/)]
