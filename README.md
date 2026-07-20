@@ -6,12 +6,12 @@
 
 > **Hey There! I am Paarth (ItzPhantomGG)**
 
-`[ Gamer • Content Creator • Visual Designer ]`
+`[ B.Tech Student • Developer • Gamer ]`
 
 <br>
 
 <a href="https://github.com/Itzphantomgg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Building+Epic+Gaming+Content;Designing+4K+Visual+Assets;Structuring+Active+Communities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=B.Tech+Student+%7C+Future+Engineer;Building+Scalable+Software+%26+Systems;Passionate+about+Coding+%26+Gaming" alt="Typing SVG" />
 </a>
 
 <br><br>
@@ -33,19 +33,19 @@
     <td width="50%" align="center" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
       <h3 align="center">Technologies & Tools</h3>
       <br>
-      <img src="https://skillicons.dev/icons?i=ps,pr,ae,ai,figma,discord,git,github,vscode,md,html,css,py,blender,windows&perline=5&theme=dark" alt="Tools Grid" />
+      <img src="https://skillicons.dev/icons?i=py,java,cpp,c,js,html,css,git,github,vscode,md,windows,linux,mysql,discord&perline=5&theme=dark" alt="Tools Grid" />
     </td>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
       <h3 align="center">About Me</h3>
       <br>
       <ul>
-        <li><strong>Role:</strong> Content Creator, Visual Designer, and Gamer</li>
+        <li><strong>Education:</strong> B.Tech Student (Engineering & Technology)</li>
         <br>
-        <li><strong>Focus:</strong> High-impact video production, 4K branding assets, and channel optimization</li>
+        <li><strong>Focus:</strong> Core Computer Science, Software Development, and Data Structures</li>
         <br>
-        <li><strong>Current Projects:</strong> Producing open-world gameplay series and structuring automated community hubs</li>
+        <li><strong>Interests:</strong> Open-world gaming, optimizing systems, and building active online communities</li>
         <br>
-        <li><strong>Goal:</strong> Delivering clean, high-quality digital content and scaling active gaming communities</li>
+        <li><strong>Goal:</strong> Writing clean, efficient code and turning complex engineering problems into scalable software</li>
       </ul>
     </td>
   </tr>
@@ -66,13 +66,13 @@
 
 <br>
 
-<!-- Streak Stats (Using High-Uptime Demolab Mirror to Prevent Broken Images) -->
+<!-- Streak Stats (High-Uptime Demolab Mirror) -->
 <img src="https://streak-stats.demolab.com/?user=Itzphantomgg&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <br><br>
 
-<!-- GitHub Stats (Added cache_seconds to prevent GitHub Camo Proxy Timeouts) -->
-<img src="https://github-readme-stats.vercel.app/api?username=Itzphantomgg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="GitHub Stats" />
+<!-- GitHub Stats (High-Uptime Demolab Mirror to Fix Broken Image) -->
+<img src="https://stats.justsong.cn/api?username=Itzphantomgg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 
 <br><br>
 
@@ -112,9 +112,9 @@
 
 ### Recent Activity
 
-1. Published new gameplay walkthrough in **Itzphantomgg/Content-Projects**
-2. Opened issue **#1** in **Itzphantomgg/Discord-Community-Setup**
-3. Updated visual assets and thumbnails in **Itzphantomgg/Branding-Pack**
+1. Working on core programming and development projects
+2. Managing and automating gaming community Discord servers
+3. Practicing Data Structures, Algorithms, and Software Engineering principles
 4. Updated repository **Itzphantomgg/Itzphantomgg**
 
 <br>
@@ -128,7 +128,7 @@
 
 **Collaboration**
 
-*I am open to collaborating on Gaming Video Production, Discord Community Frameworks, and Graphic Design.*
+*I am open to collaborating on Software Development, Open Source Projects, Hackathons, and Gaming Communities.*
 
 <br><br>
 
@@ -144,12 +144,12 @@
 
 <br><br>
 
-<!-- Daily Quote Box -->
-<img src="https://readme-quotes-fallback.vercel.app/api?theme=tokyonight" alt="Daily Quote" />
+<!-- Daily Quote Box (Swapped to reliable Demolab Quote Mirror) -->
+<img src="https://quotes-github-readme.demolab.com/?type=horizontal&theme=tokyonight" alt="Daily Quote" />
 
 <br><br>
 
-**Turning ideas into engaging digital content and scalable communities.**
+**Turning ideas into intelligent software and scalable systems.**
 
 *Star the repo if you like the setup!*
 
