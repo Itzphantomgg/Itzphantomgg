@@ -16,7 +16,7 @@
 
 <br><br>
 
-<!-- Animated Tech Illustration GIF -->
+<!-- Animated Tech Computer GIF -->
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Animated Gaming Computer GIF" />
 
 <br><br>
@@ -66,11 +66,13 @@
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Itzphantomgg&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<!-- Streak Stats (Using High-Uptime Demolab Mirror to Prevent Broken Images) -->
+<img src="https://streak-stats.demolab.com/?user=Itzphantomgg&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Itzphantomgg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+<!-- GitHub Stats (Added cache_seconds to prevent GitHub Camo Proxy Timeouts) -->
+<img src="https://github-readme-stats.vercel.app/api?username=Itzphantomgg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" alt="GitHub Stats" />
 
 <br><br>
 
@@ -110,7 +112,6 @@
 
 ### Recent Activity
 
-<!-- You can install the 'github-readme-activity' GitHub Action later to auto-populate your live commits here. For now, it shows a clean structured outline! -->
 1. Published new gameplay walkthrough in **Itzphantomgg/Content-Projects**
 2. Opened issue **#1** in **Itzphantomgg/Discord-Community-Setup**
 3. Updated visual assets and thumbnails in **Itzphantomgg/Branding-Pack**
@@ -143,7 +144,7 @@
 
 <br><br>
 
-<!-- Quote Box -->
+<!-- Daily Quote Box -->
 <img src="https://readme-quotes-fallback.vercel.app/api?theme=tokyonight" alt="Daily Quote" />
 
 <br><br>
