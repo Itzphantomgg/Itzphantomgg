@@ -1,302 +1,58 @@
-I want you to create an exceptional GitHub Profile README that feels like a premium product landing page, not a traditional GitHub profile. The design should be minimal, elegant, cinematic, and highly polished, with a strong focus on typography, spacing, and subtle visual details.
-
-Design Direction
-
-The overall aesthetic should be inspired by:
-
-Apple
-Vercel
-Linear
-Raycast
-Notion
-Framer
-Stripe
-GitHub Dark
-
-The design language must be Black & White only.
-
-Avoid colorful gradients, rainbow badges, bright icons, gaming aesthetics, cyberpunk themes, or visual clutter.
-
-Everything should feel premium, modern, and timeless.
-
-Color Palette
-
-Background: Pure Black (#000000)
-
-Surface: #0B0B0B
-
-Cards: #111111
-
-Borders: #222222
-
-Primary Text: White (#FFFFFF)
-
-Secondary Text: Light Gray (#BDBDBD)
-
-Accent: White only
-
-No other colors should appear anywhere.
-
-Typography
-
-Typography should be the hero of the design.
-
-Use large headings with clean hierarchy.
-
-Use generous whitespace.
-
-Keep everything centered unless another layout looks more elegant.
-
-Every section should feel balanced and intentional.
-
-Hero Section
-
-Create a cinematic landing page hero.
-
-Include:
-
-Large greeting
-
-Hello, I'm Paarth
-
-Elegant animated typing effect cycling through
-
-Full Stack Developer
-
-Software Engineer
-
-AI Enthusiast
-
-UI Designer
-
-Problem Solver
-
-Below that, add a short professional introduction that is concise and impactful.
-
-Include monochrome GitHub statistics inside beautiful glass cards.
-
-Use a subtle divider beneath the hero.
-
-About Me
-
-Design this section as premium information cards.
-
-Include:
-
-Current Focus
-
-Currently Learning
-
-Tech Interests
-
-Goals
-
-Fun Fact
-
-Location
-
-Email
-
-Portfolio
-
-Avoid simple bullet lists.
-
-Everything should look like part of a modern SaaS dashboard.
-
-Tech Stack
-
-Display technologies inside elegant monochrome cards.
-
-Separate them into:
-
-Languages
-
-Frontend
-
-Backend
-
-Database
-
-Cloud
-
-DevOps
-
-Tools
-
-AI
-
-Use monochrome icons whenever possible.
-
-Maintain perfect alignment.
-
-GitHub Analytics
-
-Create a beautiful analytics section containing:
-
-GitHub Stats
-
-Top Languages
-
-GitHub Streak
-
-Contribution Graph
-
-Contribution Snake
-
-Activity Graph
-
-Arrange everything in a clean responsive grid.
-
-Featured Projects
-
-Create premium project cards.
-
-Each card contains:
-
-Project Image
-
-Project Name
-
-Description
-
-Technology Stack
-
-GitHub Button
-
-Live Demo Button
-
-Cards should have:
-
-Rounded corners
-
-Thin borders
-
-Soft shadows
-
-Hover elevation
-
-Smooth transitions
-
-Experience
-
-Create a vertical timeline showcasing:
-
-Learning Journey
-
-Major Projects
-
-Achievements
-
-Milestones
-
-Keep it elegant and minimal.
-
-Achievements
-
-Display achievements using monochrome outlined badges.
-
-Examples:
-
-Open Source
-
-Hackathon
-
-Problem Solver
-
-Fast Learner
-
-Consistent Contributor
-
-Connect
-
-Create premium monochrome buttons for:
-
-GitHub
-
-LinkedIn
-
-Portfolio
-
-Twitter
-
-Instagram
-
-Discord
-
-Email
-
-Buttons should have smooth hover animations.
-
-Footer
-
-Minimal footer.
-
-Include:
-
-Thin divider
-
-Simple thank you message
-
-Copyright
-
-Back to Top button
-
-Design Rules
-
-Everything must be:
-
-Premium
-
-Minimal
-
-Elegant
-
-Professional
-
-Luxury
-
-Responsive
-
-Perfectly aligned
-
-No clutter
-
-No unnecessary decorations
-
-No oversized GIFs
-
-No colorful badges
-
-No rainbow gradients
-
-No glowing neon
-
-No gaming style
-
-No cyberpunk effects
-
-Inspiration
-
-The README should look like the homepage of a billion dollar software startup.
-
-Imagine a blend of:
-
-Apple's minimalism
-
-Vercel's elegance
-
-Linear's typography
-
-Framer's spacing
-
-Notion's simplicity
-
-GitHub Dark's aesthetics
-
-Final Goal
-
-When someone visits my GitHub profile, I want them to think:
-
-"This is one of the cleanest and most premium GitHub profiles I've ever seen."
-
-The README should feel handcrafted, polished, and memorable. Every section should have purpose, perfect spacing, and a luxurious black and white visual identity. Avoid copying existing GitHub profile templates. Create something original that looks like a premium developer portfolio rather than a standard README.
+<!--
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   PREMIUM GITHUB PROFILE README                                 ║
+║                                                                  ║
+║   Setup Instructions:                                            ║
+║   1. Replace all instances of "paarth" with your GitHub          ║
+║      username (case-sensitive).                                  ║
+║   2. Update personal details (bio, email, links, projects).     ║
+║   3. For the contribution snake, set up the GitHub Action:       ║
+║      github.com/Platane/snk                                      ║
+║   4. Ensure your GitHub profile is set to Dark Mode for          ║
+║      the intended visual experience.                             ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+-->
+<div align="center">
+<br><br>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- HERO SECTION -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=&fontSize=0" width="100%" />
+<a href="https://github.com/paarth">
+<img src="https://img.shields.io/badge/◆-000?style=flat-square&logoColor=fff" height="12" />
+</a>
+<br><br>
+# Hello, I'm Paarth
+<br>
+<a href="https://github.com/paarth">
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=24&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=40&lines=Full+Stack+Developer;Software+Engineer;AI+Enthusiast;UI+Designer;Problem+Solver" alt="Typing SVG" />
+</a>
+<br><br>
+<samp>
+Building products at the intersection of design and engineering.<br>
+I craft elegant solutions to complex problems — with precision, purpose, and clean code.
+</samp>
+<br><br><br>
+<!-- ─── Quick Stats ─── -->
+<a href="https://github.com/paarth">
+<img src="https://img.shields.io/github/followers/paarth?label=Followers&style=flat-square&color=000&labelColor=000&logo=github&logoColor=fff" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/paarth?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-20+-000?style=flat-square&logo=files&logoColor=fff&labelColor=000" />
+</a>
+&nbsp;&nbsp;
+<img src="https://komarev.com/ghpvc/?username=paarth&style=flat-square&color=000&label=Profile+Views" />
+<br><br><br>
+<!-- ─── Stats Glass Cards ─── -->
+<table>
+<tr>
+<td>
+<a href="https://github.com/paarth">
+<img src="https://github-readme-stats.vercel.app/api?username=paarth&show_icons=true&hide_title=true&hide_border=false&bg_color=0B0B0B&text_color=BDBDBD&icon_color=FFFFFF&title_color=FFFFFF&border_color=222222&ring_color=FFFFFF&include_all_commits=true&count_private=true&line_height=28" width="400" alt="GitHub Stats" />
+</a>
+</td>
+<td>
+<a href="https://github.com/paarth">
