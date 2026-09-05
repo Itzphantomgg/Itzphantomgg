@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 140" width="100%" height="140">
+  <defs>
+    <style>
+      .mono { font-family: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, monospace; }
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; }
+      .title { font-size: 11px; font-weight: 700; letter-spacing: 2px; fill: #8A8A8A; text-transform: uppercase; }
+      .value { font-size: 38px; font-weight: 900; letter-spacing: -1px; fill: #F5F5F5; }
+      .sub { font-size: 11px; font-weight: 500; letter-spacing: 1px; fill: #666666; text-transform: uppercase; }
+      .crimson { fill: #E62A2A; }
+      .border { stroke: #1A1A1A; stroke-width: 1; }
+    </style>
+  </defs>
+  
+  <rect width="880" height="140" fill="#050505" rx="0"/>
+  <rect x="0.5" y="0.5" width="879" height="139" fill="none" stroke="#1A1A1A" stroke-width="1"/>
+
+  <!-- Col 1: Repositories -->
+  <rect x="24" y="24" width="6" height="6" class="crimson"/>
+  <text x="38" y="30" class="mono title">REPOSITORIES</text>
+  <text x="24" y="80" class="sans value">12</text>
+  <text x="24" y="104" class="mono sub">PUBLIC ARCHIVES</text>
+
+  <!-- Divider 1 -->
+  <line x1="220" y1="20" x2="220" y2="120" class="border"/>
+
+  <!-- Col 2: Commits -->
+  <rect x="244" y="24" width="6" height="6" class="crimson"/>
+  <text x="258" y="30" class="mono title">COMMITS (2026)</text>
+  <text x="244" y="80" class="sans value">58</text>
+  <text x="244" y="104" class="mono sub">VERIFIED CODE LOGS</text>
+
+  <!-- Divider 2 -->
+  <line x1="440" y1="20" x2="440" y2="120" class="border"/>
+
+  <!-- Col 3: Contributions -->
+  <rect x="464" y="24" width="6" height="6" class="crimson"/>
+  <text x="478" y="30" class="mono title">CONTRIBUTIONS</text>
+  <text x="464" y="80" class="sans value">67</text>
+  <text x="464" y="104" class="mono sub">AGGREGATE ACTIVITY</text>
+
+  <!-- Divider 3 -->
+  <line x1="660" y1="20" x2="660" y2="120" class="border"/>
+
+  <!-- Col 4: Stars & Status -->
+  <rect x="684" y="24" width="6" height="6" class="crimson"/>
+  <text x="698" y="30" class="mono title">STARRED REPOS</text>
+  <text x="684" y="80" class="sans value">3</text>
+  <text x="684" y="104" class="mono sub">STATUS: ACTIVE</text>
+</svg>
