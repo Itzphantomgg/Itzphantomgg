@@ -28,7 +28,7 @@ Based in India. Focusing on systems, WebGL, and local-first computing.
 <br>
 
 ### 01 &nbsp;·&nbsp; <img src="./assets/marker.png" width="7" height="7" valign="middle">
-# MINEMARK
+# MWIS - MINECRAFT WORLD INTELLIGENCE SYSTEM
 *Minecraft location management & autonomous cartography, designed around waypoints, organization, and exploration.*
 
 <br>
