@@ -1,76 +1,310 @@
 <div align="center">
 
-<br>
-
-# <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=72&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=900&height=100&lines=ITZPHANTOMGG" alt="ITZPHANTOMGG">
-
-### `Paarth / Developer / Builder / Gamer`
+<img src="assets/hero-header.svg" width="100%" alt="ITZPHANTOMGG — Paarth / Developer / Builder / Gamer">
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=2&section=header" width="90%">
+<img src="assets/artifact.jpg" width="100%" alt="Monolithic Chrome Architectural Artifact">
 
 <br>
 
-> **I don't just write code.**
-> I turn ideas into things you can actually experience.
+<sub><b>FIG. 001 // DISTORTED CHROME ARTIFACT — REFINED SYSTEM CORE</b> &nbsp;·&nbsp; SERIAL: AGY-2026-X01 &nbsp;·&nbsp; POLISHED TITANIUM / OBSIDIAN / SIGNAL RED (620NM)</sub>
 
 <br><br>
-
-<img src="https://media.giphy.com/media/qgQUggACoPfv687qPC/giphy.gif" width="520" alt="Coding Animation">
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=2" width="90%">
 
 </div>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+<sub>RECORD NO.</sub><br>
+<b>VOL. 026 // 2026</b>
+</td>
+<td width="25%" valign="top">
+<sub>COORDINATES</sub><br>
+<b>28°36'N · 77°12'E [IND]</b>
+</td>
+<td width="25%" valign="top">
+<sub>SYSTEM TELEMETRY</sub><br>
+<b><img src="assets/red-sq.svg" width="8" height="8" valign="middle"> ACTIVE // BUILDING</b>
+</td>
+<td width="25%" valign="top">
+<sub>LEAD ARCHITECT</sub><br>
+<b>PAARTH</b>
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<!-- ==================== 01 // ABOUT ==================== -->
+
+<img src="assets/sec-01.svg" width="100%" alt="01 ABOUT">
 
 <br><br>
 
 <table width="100%">
 <tr>
-<td width="58%" valign="top">
+<td width="62%" valign="top">
 
-# `01`
+### *“I build software, break interfaces, experiment with games, and turn strange ideas into functioning products.”*
 
-# WHO<br>
+I’m **Paarth** — a software engineer and creative builder based in India. My work operates at the intersection of **computational rigor, raw architectural performance, and tactile digital experiences**.
 
-AM I?
-
-I'm **Paarth**.
-
-A B.Tech student building software, experimenting with interfaces, messing around with games, and constantly turning random ideas into projects.
-
-My interests sit somewhere between **software engineering, creative development, interactive experiences, automation and gaming**.
-
-I care a lot about how software **feels**, not just whether it works.
+I don’t view software as static lines of code; I treat it as an engineered artifact that should feel visceral, deliberate, and unforgettable. Whether designing autonomous cartographic command systems for infinite voxel realms or constructing zero-knowledge cryptographic chambers with real-time 3D physics, my focus remains uncompromised: **high fidelity, zero superfluous bloat, and surgical precision**.
 
 </td>
+<td width="38%" valign="top">
 
-<td width="42%" valign="top">
+```yaml
+OPERATOR:   Paarth [ItzPhantomGG]
+DISCIPLINE: Software · Web · Games
+STATUS:     Building & Exploring
+PARADIGM:   Dark Editorial / Local-First
+CYCLE:      2024 — 2026+
+```
 
-<div align="right">
+<sub><b>CURRENTLY CONSTRUCTING</b></sub><br>
+`Autonomous spatial engines & local-first architectures`
 
-### CURRENTLY
+<br>
 
-`BUILDING`
+<sub><b>CURRENTLY INVESTIGATING</b></sub><br>
+`Low-level systems · Advanced WebGL shaders · Cryptography`
 
-### INTERESTED IN
+<br>
 
-`WEB`
-`SOFTWARE`
-`GAMES`
-`SYSTEMS`
-`UI / UX`
+<sub><b>PRIMARY OBSESSIONS</b></sub><br>
+`Spatial computing · Psychological horror ARGs · Tactile UI`
 
-### BASED IN
+</td>
+</tr>
+</table>
 
-`INDIA`
+<br><br>
 
-### STATUS
+<!-- ==================== 02 // SELECTED WORK ==================== -->
 
-`● ONLINE`
+<img src="assets/sec-02.svg" width="100%" alt="02 SELECTED WORK">
 
+<br><br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### `01` &nbsp; <img src="assets/red-dot.svg" width="8" height="8" valign="middle"> &nbsp; **MWIS // MINEMARK**
+*Minecraft World Intelligence System & Autonomous Cartographic Archive*
+
+```yaml
+DISCIPLINE: Web / 3D Archive / Spatial Computing
+STACK:      TypeScript · React 18 · Three.js · IndexedDB
+STATUS:     Stable // Production
+```
+
+An immersive, cinematic Minecraft World Command Center engineered as an authentic **100% local-first** application running entirely on client-side IndexedDB:
+
+* **3D Procedural Voxel Hero**: Interactive chunk rendered in Three.js with dynamic celestial daylight cycles and dimension shifting.
+* **Cartographic Canvas**: Infinite-pan topographical map with $16 \times 16$ chunk boundaries and Euclidean distance telemetry.
+* **1:8 Nether Dimensional Mathematics**: Precise bi-directional coordinate projection with drift alerts.
+* **Tactile Web Audio Synthesizer**: Procedural sound generation without external audio files.
+
+<br>
+
+[ **↗ VIEW REPOSITORY** ](https://github.com/Itzphantomgg/MWIS-Minecraft-World-Intelligence-System) &nbsp;&nbsp;|&nbsp;&nbsp; [ **★ STAR PROJECT** ](https://github.com/Itzphantomgg/MWIS-Minecraft-World-Intelligence-System)
+
+</td>
+<td width="50%" valign="top">
+
+### `02` &nbsp; <img src="assets/red-dot.svg" width="8" height="8" valign="middle"> &nbsp; **VOID//OS**
+*Interactive Psychological Horror Investigation & Simulated OS*
+
+```yaml
+DISCIPLINE: Simulated OS / Interactive Mystery / ARG
+STACK:      TypeScript · React · Tailwind CSS · Web Audio
+STATUS:     Release v1.3.0 // Level-4 Clearance
+```
+
+An experimental narrative operating system recovered from Sector 7 of the abandoned Aethelgard Cognitive Laboratories:
+
+* **Full Interactive Workstation**: Diagnostic CLI shell (`sh-4.09`), dynamic filesystem, and encrypted case files.
+* **Observation Duty Mechanic**: Real-time stabilization procedure to suppress Anomaly degradation and neural buffer faults.
+* **12 Branching Resolutions**: Deep player-driven conclusions based on forensic terminal ciphers and daemons.
+* **Atmospheric CRT / CCTV Feeds**: Live visual feeds and hexadecimal connectome inspection.
+
+<br>
+
+<div align="center">
+<img src="assets/voidos-hero.png" width="95%" alt="VOID//OS Terminal Preview">
+</div>
+
+<br>
+
+[ **↗ BOOT WORKSTATION** ](https://github.com/Itzphantomgg/VOIDOS) &nbsp;&nbsp;|&nbsp;&nbsp; [ **★ STAR PROJECT** ](https://github.com/Itzphantomgg/VOIDOS)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### `03` &nbsp; <img src="assets/red-dot.svg" width="8" height="8" valign="middle"> &nbsp; **VAULT**
+*Zero-Knowledge Cryptographic Password Chamber*
+
+```yaml
+DISCIPLINE: Security Architecture / 3D WebGL / Systems
+STACK:      TypeScript · React 18 · Three.js · Web Crypto
+STATUS:     Production Build // Zero-Knowledge
+```
+
+A production-grade, local-first credential vault built inside a dark cinematic metallic environment with real-time 3D mechanics:
+
+* **Interactive 3D Mechanical Vault Door**: Heavy circular steel door with 24 locking bolts and counter-rotating cogged steel rings rendered in Three.js / React Three Fiber.
+* **Zero-Knowledge Cryptography**: Military-grade **AES-256-GCM** encryption and **PBKDF2-SHA256** key derivation (310,000 iterations).
+* **FIDO2 / WebAuthn & TOTP**: Integrated rotating 2FA authenticator, hardware passkeys, and interactive account network node graph.
+
+<br>
+
+[ **↗ EXAMINE VAULT** ](https://github.com/Itzphantomgg/Vault---Password-Manager) &nbsp;&nbsp;|&nbsp;&nbsp; [ **★ STAR PROJECT** ](https://github.com/Itzphantomgg/Vault---Password-Manager)
+
+</td>
+<td width="50%" valign="top">
+
+### `04` &nbsp; <img src="assets/red-dot.svg" width="8" height="8" valign="middle"> &nbsp; **AWEN**
+*Adaptive Wellness & Emotional Navigation Platform*
+
+```yaml
+DISCIPLINE: AI-IoT / Physiological Intelligence / Health
+STACK:      React 19 · FastAPI · Python 3 · Supabase
+STATUS:     Active Prototype v1.0 // Sensor Stream
+```
+
+A physiological intelligence platform tracking personal resting baselines rather than static medical thresholds:
+
+* **Individual Baseline Calibration**: Multi-day onboarding calculating personal resting heart rate, SpO₂, and body temperature dynamics.
+* **Living Vector Mascot Companion**: 60 FPS autonomous vector companion with state-reactive color shifts and speech clouds.
+* **IoT Hardware Pipeline**: Scalable ingestion architecture built for ESP32 PPG pulse oximetry and Supabase Row Level Security.
+
+<br>
+
+[ **↗ EXPLORE AWEN** ](https://github.com/Itzphantomgg/AWEN) &nbsp;&nbsp;|&nbsp;&nbsp; [ **★ STAR PROJECT** ](https://github.com/Itzphantomgg/AWEN)
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<!-- ==================== 03 // APPARATUS ==================== -->
+
+<img src="assets/sec-03.svg" width="100%" alt="03 APPARATUS">
+
+<br><br>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top">
+
+<sub>01 // CORE LANGUAGES</sub><br><br>
+
+**PYTHON**<br>
+`FastAPI · Automation · Data Architecture`
+
+<br>
+
+**JAVA / C / C++**<br>
+`Data Structures · Memory Models · Algorithms`
+
+<br>
+
+**TYPESCRIPT / JS**<br>
+`Type-Safe Engineering · Modern ESNext`
+
+</td>
+<td width="33%" valign="top">
+
+<sub>02 // INTERACTIVE & GRAPHICS</sub><br><br>
+
+**THREE.JS / WEBGL**<br>
+`Procedural Dioramas · Shaders · R3F`
+
+<br>
+
+**REACT 18 / 19**<br>
+`State Synchronization · Component Topology`
+
+<br>
+
+**TAILWIND / WEB AUDIO**<br>
+`Brutalist Typography · Procedural Sound`
+
+</td>
+<td width="33%" valign="top">
+
+<sub>03 // SYSTEMS & PERSISTENCE</sub><br><br>
+
+**LINUX & WINDOWS**<br>
+`Shell Automation · Command Diagnostics`
+
+<br>
+
+**INDEXEDDB / MYSQL / SUPABASE**<br>
+`Local-First Offline Engines · Relational Schemas`
+
+<br>
+
+**GIT & GITHUB ACTIONS**<br>
+`CI/CD Pipelines · Automated Deployment`
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<!-- ==================== 04 // TELEMETRY ==================== -->
+
+<img src="assets/sec-04.svg" width="100%" alt="04 TELEMETRY">
+
+<br><br>
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Itzphantomgg&show_icons=true&hide_border=true&bg_color=050505&title_color=F5F5F5&text_color=8A8A8A&icon_color=FF2A2A&count_private=true" width="100%" alt="GitHub Metrics">
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<img src="https://streak-stats.demolab.com/?user=Itzphantomgg&theme=dark&hide_border=true&background=050505&ring=FF2A2A&fire=FF2A2A&currStreakLabel=F5F5F5&sideLabels=8A8A8A&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=8A8A8A" width="100%" alt="Streak Metrics">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Itzphantomgg&bg_color=050505&color=F5F5F5&line=FF2A2A&point=F5F5F5&area=true&hide_border=true" width="100%" alt="Contribution Graph">
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="100%" valign="top">
+
+<sub>CONTRIBUTION / 2026 // GRID TIMELINE</sub><br><br>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Itzphantomgg/Itzphantomgg/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid Snake 2026">
 </div>
 
 </td>
@@ -79,242 +313,43 @@ I care a lot about how software **feels**, not just whether it works.
 
 <br><br>
 
-<div align="center">
+<!-- ==================== 05 // DISPATCH ==================== -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=2" width="90%">
-
-<br><br>
-
-# `02`   SELECTED WORK
-
-<br>
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-# 01
-
-## **PROJECT / 01**
-
-### `M I N E M A R K`
-
-A focused Minecraft location and waypoint experience built around saving, organizing and discovering important locations.
-
-<br>
-
-`WEB` `TOOLS` `SYSTEMS`
-
-<br>
-
-<a href="https://github.com/Itzphantomgg">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=000000">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-# 02
-
-## **PROJECT / 02**
-
-### `V O I D`
-
-An experimental interactive project exploring game mechanics, atmosphere, storytelling and unconventional web experiences.
-
-<br>
-
-`GAME` `EXPERIMENTAL` `INTERACTIVE`
-
-<br>
-
-<a href="https://github.com/Itzphantomgg">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=000000">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-# 03
-
-## **PROJECT / 03**
-
-### `FINANCE`
-
-A clean personal finance experience focused on dashboards, tracking, analytics and making information easier to understand.
-
-<br>
-
-`WEB` `DASHBOARD` `DATA`
-
-<br>
-
-<a href="https://github.com/Itzphantomgg">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=000000">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-# 04
-
-## **PROJECT / 04**
-
-### `LAB`
-
-A collection of experiments, prototypes, weird concepts and small things built simply because they seemed interesting.
-
-<br>
-
-`EXPERIMENTS` `PROTOTYPES` `IDEAS`
-
-<br>
-
-<a href="https://github.com/Itzphantomgg">
-<img src="https://img.shields.io/badge/EXPLORE-FF3030?style=for-the-badge&logo=github&logoColor=FFFFFF">
-</a>
-
-</td>
-</tr>
-</table>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=2" width="90%">
-
-<br><br>
-
-# `03`   THE TOOLBOX
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,git,github,vscode,mysql,windows,linux&perline=7&theme=dark" alt="Tech Stack">
-
-<br><br>
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-### LANGUAGES
-
-`Python`
-`Java`
-`C`
-`C++`
-`JavaScript`
-
-</td>
-
-<td width="33%" align="center">
-
-### DEVELOPMENT
-
-`HTML`
-`CSS`
-`Web Development`
-`Git`
-`GitHub`
-
-</td>
-
-<td width="33%" align="center">
-
-### ENVIRONMENT
-
-`VS Code`
-`Windows`
-`Linux`
-`MySQL`
-`Discord`
-
-</td>
-</tr>
-</table>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=2" width="90%">
-
-<br><br>
-
-# `04`   GITHUB / ACTIVITY
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Itzphantomgg&show_icons=true&hide_border=true&bg_color=050505&title_color=FFFFFF&text_color=AAAAAA&icon_color=FF3030&count_private=true" width="48%" alt="GitHub Stats">
-
-<img src="https://streak-stats.demolab.com/?user=Itzphantomgg&theme=dark&hide_border=true&background=050505&ring=FF3030&fire=FF3030&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" width="48%" alt="GitHub Streak">
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Itzphantomgg&bg_color=050505&color=FFFFFF&line=FF3030&point=FFFFFF&area=true&hide_border=true" width="96%" alt="Contribution Graph">
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Itzphantomgg&label=VISITORS&style=for-the-badge&color=FF3030&labelColor=050505" alt="Profile Views">
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=2" width="90%">
-
-<br><br>
-
-# `05`   CONTRIBUTION
-
-<br>
-
-<img src="https://github.com/Itzphantomgg/Itzphantomgg/blob/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Contribution Snake">
-
-</div>
+<img src="assets/sec-05.svg" width="100%" alt="05 DISPATCH">
 
 <br><br>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-# `06`
+### INITIATE DIRECT TRANSMISSION
 
-## CURRENT STATE
+Open to high-impact technical initiatives, specialized engineering roles, and innovative digital experiments:
 
-```text
-BUILDING     ████████████████████
-LEARNING     ███████████████████░
-EXPLORING    ████████████████████
-EXPERIMENTING ███████████████████
+* <img src="assets/red-sq.svg" width="6" height="6" valign="middle"> **High-Performance Web & Systems Architecture**
+* <img src="assets/red-sq.svg" width="6" height="6" valign="middle"> **Experimental 3D Graphics & Interactive Environments**
+* <img src="assets/red-sq.svg" width="6" height="6" valign="middle"> **Local-First Software & Cryptographic Tools**
+* <img src="assets/red-sq.svg" width="6" height="6" valign="middle"> **Hackathons & Technical Research Collaborations**
+
+</td>
+<td width="40%" valign="top">
+
+<sub>CHANNELS // DIRECT CONTACT</sub><br><br>
+
+[ **↗ GITHUB // @Itzphantomgg** ](https://github.com/Itzphantomgg)  
+[ **↗ INSTAGRAM // @itzphantomgg** ](https://www.instagram.com/itzphantomgg/)  
+[ **↗ DIRECT DISPATCH // darkyphantom03@gmail.com** ](mailto:darkyphantom03@gmail.com)  
+
+<br>
+
+```yaml
+BASE:     India [UTC+05:30]
+STATUS:   Available for Inquiries
+ENCRYPTION: STANDARD RFC 5322
 ```
 
 </td>
-
-<td width="50%" valign="top">
-
-# `07`
-
-## PRINCIPLE
-
-> **Make it work.**
-> **Make it good.**
-> **Then make it unforgettable.**
-
-</td>
 </tr>
 </table>
 
@@ -322,34 +357,17 @@ EXPERIMENTING ███████████████████
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=050505&height=2" width="90%">
+<img src="assets/divider.svg" width="100%" alt="Divider">
 
 <br><br>
 
-# LET'S BUILD SOMETHING.
-
-<br>
-
-I'm interested in **software projects, open source, hackathons, creative experiments and interesting collaborations.**
+<sub>ARCHIVE CODE: <b>ITZPHANTOMGG // PAARTH</b> · EDITION 2026 · ALL SYSTEMS OPERATIONAL</sub><br>
+<sub>BUILT WITH BRUTALIST LUXURY & EDITORIAL PRECISION</sub>
 
 <br><br>
 
-<a href="https://github.com/Itzphantomgg">
-<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000">
-</a>
+<img src="https://komarev.com/ghpvc/?username=Itzphantomgg&label=TELEMETRY+VIEWS&style=flat-square&color=FF2A2A&labelColor=0D0D0D" alt="Telemetry Views">
 
-<a href="https://www.instagram.com/itzphantomgg/">
-<img src="https://img.shields.io/badge/INSTAGRAM-FF3030?style=for-the-badge&logo=instagram&logoColor=FFFFFF">
-</a>
-
-<br><br><br>
-
-### `ITZPHANTOMGG`
-
-`© 2026 / BUILT WITH CURIOSITY`
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=050505&height=140&section=footer" width="100%" alt="Footer">
+<br><br>
 
 </div>
